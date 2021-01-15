@@ -1,7 +1,7 @@
 # Site
 name: "The MBA Women"
 title: "The MBA Women"
-description: "Pearls of wisdom from MBAs to applicatants from underrepresented backgrounds and first-generation students. "
+description: "Pearls of wisdom from MBAs to applicatants from underrepresented populations and first-generation students. "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -21,17 +21,7 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-/*  
-john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-*/
+ 
 
 # Plugins
 plugins:
